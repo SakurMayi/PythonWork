@@ -1,1 +1,1 @@
-# PythonWork
+学习python时学校的结课作业，记录一下自己的作品。
